@@ -7,12 +7,12 @@
 # print(a<=b)
 # print(a!=b)
 
-# n=int(input("enter the value"))
-# print(n)
-# if n%2 ==0:
-#     print("even")
-# else:
-#     print("odd")
+n=int(input("enter the value"))
+print(n)
+if n%2 ==0:
+    print("even")
+else:
+    print("odd")
 
 # a=int(input("enter the value:"))
 
